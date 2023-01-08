@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Shiny Sword",
+        "itemType": "WEAPON"
+    },
+    {
+        "name": "Rope Caster",
+        "itemType": "WEAPON"
+    },
+    {
+        "name": "Smokeform Robes",
+        "itemType": "ARMOR"
+    },
+    {
+        "name": "The Longest Gown",
+        "itemType": "ARMOR"
+    },
+    {
+        "name": "Helm of Eternal Might",
+        "itemType": "HELMET"
+    },
+    {
+        "name": "Mask of Frozen Hells",
+        "itemType": "HELMET"
+    },
+    {
+        "name": "Savage Tower Shield",
+        "itemType": "SHIELD"
+    },
+    {
+        "name": "Wrathful Ebon Carapace",
+        "itemType": "SHIELD"
+    }
+]

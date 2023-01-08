@@ -1,0 +1,56 @@
+{
+    "BOOSTER": [
+        {
+            "items_num_range": 5,
+            "rarity": "RARE",
+            "rarity_guarant": 3
+        },
+        {
+            "items_num_range": 4,
+            "rarity": "LEGENDARY",
+            "rarity_guarant": 1
+        }
+    ],
+    "LUCKBOOSTER": [
+        {
+            "items_num_range": 5,
+            "rarity": "RARE",
+            "rarity_guarant": 3,
+            "rarity_upgrade_chance": 0.1
+        },
+        {
+            "items_num_range": 4,
+            "rarity": "LEGENDARY",
+            "rarity_guarant": 1,
+            "rarity_upgrade_chance": 0.45
+        }
+    ],
+    "UNIFORMBOOSTER": [
+        {
+            "items_num_range": 5,
+            "rarity": "RARE",
+            "rarity_guarant": 3,
+            "rarity_upgrade_chance": 0.1
+        },
+        {
+            "items_num_range": 4,
+            "rarity": "LEGENDARY",
+            "rarity_guarant": 1,
+            "rarity_upgrade_chance": 0.45
+        }
+    ],
+    "COLLECTIONBOOSTER": [
+        {
+            "items_num_range": 5,
+            "rarity": "RARE",
+            "rarity_guarant": 3,
+            "rarity_upgrade_chance": 0.1
+        },
+        {
+            "items_num_range": 4,
+            "rarity": "LEGENDARY",
+            "rarity_guarant": 1,
+            "rarity_upgrade_chance": 0.45
+        }
+    ]
+}
